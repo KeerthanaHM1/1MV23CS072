@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 3rd one to be done 
+=======
+hai
+hello
+>>>>>>> 4b5bfb4 (added)
